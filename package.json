@@ -1,0 +1,8 @@
+{
+  "name": "mr-campaign-report",
+  "version": "1.0.0",
+  "description": "بلاغ الحملة القومية للتطعيم — موقع + سيرفر مشاركة البيانات",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
